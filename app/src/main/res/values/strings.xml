@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">Cadastro de Contatos</string>
+        <string name="nome">Nome</string>
+        <string name="email">Email</string>
+        <string name="telefone">Telefone</string>
+        <string name="endereco">Endereço</string>
+        <string name="cadastrar">Cadastrar</string>
+        <string name="tipo_contato">Tipo de Contato</string>
+</resources>
